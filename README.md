@@ -1,5 +1,9 @@
 # hsudoku
+Para execução, simplesmente compile com ghc sudoku.hs
+e execute com ./sudoku (a entrada será solicitada 
+dentro do programa).
+
 Sudoku solver in haskell
-Entradas:
-.......1.4.........2...........5.4.7..8...3....1.9....3..4..2...5.1........8.6...
-.......1.4...3.....2...........5.4.6
+Entradas testadas:
+**2*5*41*56**264*31*423**45*21*5*3**
+*4**511*3**6***1****12*****31***6*34
